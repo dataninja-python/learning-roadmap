@@ -1,7 +1,7 @@
 [package]
 version = "0.1.0"
 name = "seed-proto"
-repository = "https://github.com/seed-rs/seed-quickstart"
+repository = "https://github.com/dataninja-python/learning-roadmap"
 authors = ["dataninja-python <aj@redstonema.com>"]
 description = "App Description"
 categories = ["category"]
